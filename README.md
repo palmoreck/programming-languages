@@ -4,7 +4,7 @@ Rama con contenido en formato de "clases" para aprender lenguajes de programaci�
 
 ## C
 
-La carpeta [C](C) puede ejecutarse interactivamente con el botón [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/palmoreck/programming-languages/jupyterlab_c_kernel?urlpath=lab/tree/C/) (jupyterlab + kernel de C) y encuentran:
+La carpeta [C](C) puede ejecutarse interactivamente con el botón [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/palmoreck/programming-languages/jupyterlab_c_kernel?urlpath=lab/tree/programming-languages/C/) (jupyterlab + kernel de C) y encuentran:
 
 * [C/Clases](C/clases) para introducción al lenguaje C de programación.
 
